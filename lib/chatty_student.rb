@@ -17,3 +17,5 @@ class ChattyStudent
     super
     super
   end
+
+end
